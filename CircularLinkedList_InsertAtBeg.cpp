@@ -33,7 +33,7 @@ int main()
 {
 	Node *head=NULL;
 	head=insertAtEnd(head,10);
-	head=insertAtEnd(head,20);
+	head=insertAtEnd(head,20);//inserting a node at end of cll
 	return 0;
 }
 
